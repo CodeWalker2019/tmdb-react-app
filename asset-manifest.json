@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tmdb-react-app/static/css/main.75efdf7f.chunk.css",
+    "main.js": "/tmdb-react-app/static/js/main.b67f36f9.chunk.js",
+    "main.js.map": "/tmdb-react-app/static/js/main.b67f36f9.chunk.js.map",
+    "runtime-main.js": "/tmdb-react-app/static/js/runtime-main.a7e29e23.js",
+    "runtime-main.js.map": "/tmdb-react-app/static/js/runtime-main.a7e29e23.js.map",
+    "static/js/2.38925b22.chunk.js": "/tmdb-react-app/static/js/2.38925b22.chunk.js",
+    "static/js/2.38925b22.chunk.js.map": "/tmdb-react-app/static/js/2.38925b22.chunk.js.map",
+    "static/css/3.86b88e16.chunk.css": "/tmdb-react-app/static/css/3.86b88e16.chunk.css",
+    "static/js/3.da3238ed.chunk.js": "/tmdb-react-app/static/js/3.da3238ed.chunk.js",
+    "static/js/3.da3238ed.chunk.js.map": "/tmdb-react-app/static/js/3.da3238ed.chunk.js.map",
+    "index.html": "/tmdb-react-app/index.html",
+    "static/css/3.86b88e16.chunk.css.map": "/tmdb-react-app/static/css/3.86b88e16.chunk.css.map",
+    "static/css/main.75efdf7f.chunk.css.map": "/tmdb-react-app/static/css/main.75efdf7f.chunk.css.map",
+    "static/js/2.38925b22.chunk.js.LICENSE.txt": "/tmdb-react-app/static/js/2.38925b22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e29e23.js",
+    "static/js/2.38925b22.chunk.js",
+    "static/css/main.75efdf7f.chunk.css",
+    "static/js/main.b67f36f9.chunk.js"
+  ]
+}
