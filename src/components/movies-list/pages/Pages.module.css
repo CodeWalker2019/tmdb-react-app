@@ -1,0 +1,32 @@
+.pageNumbers {
+    position: relative;
+    display: flex;
+    padding: 30px;
+    overflow: auto;
+}
+
+.active-true {
+    color: #8b8b8b;
+}
+
+.link {
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    min-width: 40px;
+    font-size: 20px;
+    margin-right: 0.5em;
+    cursor: pointer;
+    text-align: center;
+}
+
+.selectedPage {
+    display: inline-block;
+    position: absolute;
+    background: linear-gradient(-45deg, rgba(1,180,228,1) 0%, rgba(144,206,161,1) 72%);
+    border-radius: 10px;
+    margin-left: -27px;
+    height: 40px;
+    width: 40px;
+    z-index: -1;
+}

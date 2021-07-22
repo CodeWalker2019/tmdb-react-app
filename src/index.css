@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    background: var(--color-primary);
+}
+
+.App {
+    margin: auto;
+}
+
+:root {
+    --color-primary: #0d253f;
+    --color-secondary: #01b4e4;
+    --color-tertiary: #90cea1;
+    --color-grarient-secondaty-tertiary: linear-gradient(90deg, rgba(1, 180, 228, 1) 0%, rgba(144, 206, 161, 1) 72%);
+    --color-grarient-tertiary-secondaty: linear-gradient(-90deg, rgba(1, 180, 228, 1) 0%, rgba(144, 206, 161, 1) 72%);
+}
+
+*::-webkit-scrollbar {
+    width: 0.2em;
+    height: 0.4em;
+}
+
+*::-webkit-scrollbar-track {
+    background-color: var(--color-primary);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #183f6c;
+    border-radius: 10em;
+}
+
+* {
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+    color: white;
+
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box; /* Firefox, other Gecko */
+    box-sizing: border-box; /* Opera/IE 8+ */
+}
+
+*::selection {
+    background: var(--color-primary);
+    color: #fff;
+}
+
+* {
+    caret-color: var(--color-primary);
+}
